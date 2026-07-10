@@ -1,7 +1,7 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.2;
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif line-height: 1.2;
+    background-color: #ffff;
+    padding: 2rem;
 }
 
 header,
@@ -27,6 +27,7 @@ h2 {
     border-bottom: 1px solid #222;
     margin-left: 20px;
     margin-right: 20px;
+    text-align: center;
 }
 
 img {
@@ -60,5 +61,4 @@ ul {
 
 footer {
     font-size: 1.5rem;
-
 }
