@@ -1,3 +1,12 @@
+:root {
+    --main-color: #000000;
+    --shadow-color: #333;
+    --img-width: 200px;
+    --main-margin: 5rem;
+    --main-padding: 1rem;
+    --border-solid: 1px solid black;
+}
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
